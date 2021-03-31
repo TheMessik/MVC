@@ -24,7 +24,7 @@ JavaFX is required for this project to compile.
 
 For those of you who don't feel like downloading an entire project, I've added the MVC.jar, so you can see the code in action (I still recommend compiling the code yourself tho)
 
-Download the [MVC.jar](MVC.jar), go in your terminal to that location and call
+Download the [MVC.jar](https://github.com/TheMessik/MVC/raw/master/MVC.jar), go in your terminal to that location and call
 `java -jar MVC.jar`
 
 In case of questions, contact me at jozefj44@gmail.com
