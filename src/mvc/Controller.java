@@ -1,7 +1,7 @@
 package mvc;
 
 /**
- * The mvc.Controller in our MVC example. It sets up event handlers to react to button presses
+ * The Controller in our MVC example. It sets up event handlers to react to button presses
  */
 public class Controller {
     public Controller(Model model, View view) {
