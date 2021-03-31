@@ -4,7 +4,7 @@ import javafx.beans.property.IntegerProperty;
 import javafx.beans.property.SimpleIntegerProperty;
 
 /**
- * The mvc.Model in our MVC example. Stores the value and provides methods to change it
+ * The Model in our MVC example. Stores the value and provides methods to change it
  */
 public class Model {
     private final IntegerProperty numberProperty;
